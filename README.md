@@ -1,16 +1,36 @@
-## Hi there 👋
+# ~/home
 
-<!--
-**Cr1stalk/Cr1stalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
 
-Here are some ideas to get you started:
+unknown
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ pwd
+
+/home/learning
+```
+
+```bash
+$ tree
+
+.
+├── linux
+├── python
+├── networking
+├── git
+└── security
+```
+
+```bash
+$ uptime
+
+learning...
+```
+
+---
+
+```
+Everything starts with curiosity.
+```
